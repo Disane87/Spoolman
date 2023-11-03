@@ -215,7 +215,7 @@
     "vendor": {
         "vendor": "Leverantörer",
         "fields": {
-            "id": "Id",
+            "id": "ID",
             "name": "Namn",
             "registered": "Registrerad",
             "comment": "Kommentar"
